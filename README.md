@@ -5,4 +5,4 @@ This app creates a train schedule application that incorporates Firebase to host
 
 Demo: https://jj-code.github.io/train-scheduler/
 
-![TrainScheduler](/public/assets/img/trainScheduler.png?raw=true)
+![TrainScheduler](/assets/images/trainScheduler.png?raw=true)
